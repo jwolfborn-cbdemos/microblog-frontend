@@ -4,7 +4,7 @@
     <div class="box" style="background-color: #22243c;">
       <div class="columns">
         <div class="column is-three-quarters">
-          <h1 class="title" style="color: white;"><span v-if="show_title"> Welcome to my new Customer Forum! | </span> What was your favorite session this year? v1.0.4 </h1>
+          <h1 class="title" style="color: white;"><span v-if="show_title"> Welcome to my new Customer Forum! | </span> Share your thoughts! v1.0.5 </h1>
         </div>
         <div class="column">
           <img src="../assets/DW_wordmark.png"/>
